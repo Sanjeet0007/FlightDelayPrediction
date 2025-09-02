@@ -1,8 +1,5 @@
 # Flight Delay Prediction Using Machine Learning
 
-## Pranay Kumar Verma (39606-8464)
-
-## December 2019
 
 ## 1 Introduction
 
